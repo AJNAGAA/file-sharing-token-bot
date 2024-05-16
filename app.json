@@ -77,6 +77,10 @@
       "required": false
     }
   },
+  "IMG_URL":{
+      "description": "Enter Image Url",
+      "value": ""
+    },
   "buildpacks": [
     {
       "url": "heroku/python"
